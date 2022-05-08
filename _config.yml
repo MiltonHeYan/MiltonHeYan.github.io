@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "He Yan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "XJTLU Student"
+  location         : "Suzhou,Jiangsu Province,China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/MiltonHeYan"
   google_plus      :
   keybase          :
   instagram        :
