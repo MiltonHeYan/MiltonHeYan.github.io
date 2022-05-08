@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "He Yan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "He Yan"
 description              : &description "I'm now a year 3 Undergraduate of Xi 'an Jiaotong-Liverpool University. I major in Information Management and Information Systems"
 url                      : https://MiltonHeYan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "He Yan"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
