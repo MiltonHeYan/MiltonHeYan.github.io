@@ -7,10 +7,10 @@ main:
     url: /publications/   
 
   - title: "Research"
-    url: /teaching/    
+    url: /portfolio/    
     
   - title: "Awards&Honors"
-    url: /portfolio/
+    url: /teaching/
         
   - title: "Media News"
     url: /year-archive/
