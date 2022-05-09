@@ -10,13 +10,13 @@ main:
     url: /portfolio/    
     
   - title: "Awards&Honors"
-    url: /teaching/
+    url: /cv/
         
   - title: "Media News"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /teaching/
     
   - title: "Guide"
     url: /markdown/
