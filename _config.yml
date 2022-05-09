@@ -14,7 +14,7 @@ description              : &description "I'm now a year 3 Undergraduate of Xi 'a
 url                      : https://MiltonHeYan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MiltonHeYan.github.io"
-teaser                   : "https://github.com/MiltonHeYan/MiltonHeYan.github.io/blob/e7722aa8807d5062a0247bec4613a27a9a85ac9f/images/6V8A9159%201.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/1211652085857_.pic.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "He Yan"
-  avatar           : "profile.png"
+  avatar           : "images/1211652085857_.pic.jpg"
   bio              : "XJTLU Student"
   location         : "Suzhou,Jiangsu Province,China"
   employer         :
