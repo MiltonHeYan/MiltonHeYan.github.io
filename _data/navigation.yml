@@ -3,16 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Startups"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Research"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Awards&Honors"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Media"
     url: /year-archive/
     
   - title: "CV"
