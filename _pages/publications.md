@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+title: "Patents"
 permalink: /publications/
 author_profile: true
 ---
