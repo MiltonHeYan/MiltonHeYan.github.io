@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards&Honors"
-permalink: /cv/
+permalink: /Awards&Honors/
 author_profile: true
 redirect_from:
   - /resume
