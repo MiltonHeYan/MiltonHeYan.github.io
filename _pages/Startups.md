@@ -12,8 +12,6 @@ I founded two companies as the main shareholder, you can click to see the compan
 
 Hezi Technologies(Suzhou) Co., Ltd.
 ======
-Founder&CEO
-=
 * Demeter Box
 * AI Planting Robots
 * Blue² Intelligent River Cleaning Boat
