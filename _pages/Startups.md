@@ -19,8 +19,8 @@ Hezi Technologies(Suzhou) Co., Ltd. Founder&CEO
 
 Suzhou Xiyou Network Technologies Co., Ltd. CTO
 ======
-*"Who‘s Here" Map-based Social App
-*Xiyou Glamping
+* "Who‘s Here" Map-based Social App
+* Xiyou Glamping
 
 
 
