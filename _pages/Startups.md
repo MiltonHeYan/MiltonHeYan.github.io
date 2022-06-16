@@ -10,6 +10,17 @@ redirect_from:
 {% include base_path %}
 
 
-Hezi Technologies(Suzhou) Co., Ltd.  
+Hezi Technologies(Suzhou) Co., Ltd. Founder&CEO
+======
+* Demeter Box
+* AI Planting Robots
+* ESGrow-3D Intelligent Solution For Urban Farms
+
+
+Suzhou Xiyou Network Technologies Co., Ltd. CTO
+======
+*"Who‘s Here" Map-based Social App
+*Xiyou Glamping
+
 
 
