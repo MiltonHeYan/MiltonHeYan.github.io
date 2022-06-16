@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 I founded two companies as the main shareholder, you can click to see the company profile and project profile.
 
-Hezi Technologies(Suzhou) Co., Ltd.
+Hezi Technologies(Suzhou) Co., Ltd.---Founder&CEO
 ======
 * Demeter Box
 * AI Planting Robots
@@ -23,7 +23,7 @@ Hezi Technologies(Suzhou) Co., Ltd.
 
 
 
-Suzhou Xiyou Network Technologies Co., Ltd. CTO
+Suzhou Xiyou Network Technologies Co., Ltd.---Co-Founder&CTO
 ======
 * "Who‘s Here" Map-based Social App
 * Xiyou Glamping
