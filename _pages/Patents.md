@@ -1,13 +1,13 @@
 ---
- layout: archive
- title: "Patents"
- permalink: /Patents/
- author_profile: true
- redirect_from:
-   - /resume
- ---
+layout: archive
+title: "Patents"
+permalink: /Patents/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
- {% include base_path %}
+{% include base_path %}
 
  Automatic Fertilizer Applicator with Pesticide Fixed-point Feeding Structure and Using Method of Automatic Fertilizer Applicator
 
