@@ -14,6 +14,7 @@ Hezi Technologies(Suzhou) Co., Ltd. Founder&CEO
 ======
 * Demeter Box
 * AI Planting Robots
+* Blue² Intelligent River Cleaning Boat
 * ESGrow-3D Intelligent Solution For Urban Farms
 
 
