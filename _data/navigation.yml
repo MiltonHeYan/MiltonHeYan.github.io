@@ -15,8 +15,4 @@ main:
   - title: "Media News"
     url: /Media News/
     
-  - title: "CV"
-    url: /teaching/
-    
-  - title: "Guide"
-    url: /markdown/
+
