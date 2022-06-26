@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-2022 [Microsoft Imagine Cup](https://imaginecup.microsoft.com/zh-cn)Chinese Final [Excellence Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/微软创新杯国家.jpg), Microsoft
+2022 [Microsoft Imagine Cup](https://imaginecup.microsoft.com/zh-cn)Chinese Final ![Excellence Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/微软创新杯国家.jpg), Microsoft
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/微软创新杯国家.jpg)
 
 
@@ -31,9 +31,6 @@ The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www
 
 The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)Jiangsu Province [First Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg), Chinese Association for Artificial Intelligence
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg)
-
-
-![RoboMaster](https://user-images.githubusercontent.com/98693538/152831154-da1b620d-cb2d-4519-8a1a-c36ceed7ba01.jpg)
 
 
 
