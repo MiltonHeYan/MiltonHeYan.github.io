@@ -15,4 +15,5 @@ redirect_from:
 
  Household Intelligent Planting Box
 
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2初次测试.pic.jpg" width="30%" height="30%" />
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2初次测试.pic.jpg" width="30%" height="30%" />  <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2初次测试.pic.jpg" width="30%" height="30%" />
+
