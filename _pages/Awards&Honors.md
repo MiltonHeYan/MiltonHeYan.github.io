@@ -33,7 +33,7 @@ The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg)
 
 2022 XJTLU Appraisal Entrepreneur Star
-[Certificate](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/创业之星.jpg)
+[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/创业之星.jpg)
 
 
 
