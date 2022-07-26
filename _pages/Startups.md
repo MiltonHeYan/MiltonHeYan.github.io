@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 I founded two companies as the main shareholder, you can click to see the company profile and project profile.
 
-[Hezi Technologies(Suzhou) Co., Ltd.]()---Founder&CEO
+[Hezi Technologies(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
 ======
 * Demeter Box
 * AI Planting Robots
@@ -21,9 +21,7 @@ I founded two companies as the main shareholder, you can click to see the compan
 
 
 
-
-
-[Suzhou Xiyou Network Technologies Co., Ltd.]()---Co-Founder&CTO
+[Suzhou Xiyou Network Technologies Co., Ltd.](https://aiqicha.baidu.com/company_detail_93481733330222)---Co-Founder&CTO
 ======
 * "Who‘s Here" Map-based SocialApp 
 Download
