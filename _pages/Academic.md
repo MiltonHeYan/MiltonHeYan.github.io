@@ -11,7 +11,7 @@ redirect_from:
 Paper
 ======
 
-Academic Conference
+Conference
 ===
 The Academy of Innovation, Entrepreneurship, and Knowledge[ACIEK](https://www.aciek-academy.com) Seville 2022, June 28-30
 [Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment]()
