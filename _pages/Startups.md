@@ -18,7 +18,7 @@ Co- Founder&CTO:[Dr.Kangshi Wang](https://scholar.google.com/citations?user=Ui5w
 * Demeter Box
 * AI Planting Robots
 * Blue² Intelligent River Cleaning Boat[[Introduction]]()
-* ESGrow-3D Intelligent Solution For Urban Farms[[Introduction]]()
+* ESGrow-3D Intelligent Solution For Urban Farms[[Introduction]](http://miltonheyan.github.io/files/lfc4ef9da622e0edec4962de8aaa210f4-s5252621553310545205-mf86c73e79c914036b4f46f58f7bf24a1.pdf)
 
 
 
