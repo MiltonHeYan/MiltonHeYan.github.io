@@ -12,17 +12,17 @@ redirect_from:
 Publications & Conference Presentations
 ======
 
-[1] Cheng Xu, Yanqi Sun, Wanfang Xiong, He Yan (2022) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Journal of Consumer Behaviour. (ABDC-A, SSCI). Forthcoming.
+[1] Cheng Xu, Yanqi Sun, Jiawei Wang, He Yan, Wanfang Xiong(2022) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Journal of Consumer Behaviour. (ABDC-A, SSCI). Forthcoming.
 
-[2] He Yan*(2023) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. The Academy of Innovation, Entrepreneurship, and Knowledge [(ACIEK)](https://www.aciek-academy.com) Conference ESIC MADRID 2023. Submitted.
+[2] He Yan*(2023) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. The Academy of Innovation, Entrepreneurship, and Knowledge [(ACIEK)](https://www.aciek-academy.com) Conference ESIC MADRID 2023. Accepted.
 
-[3] Cheng Xu, He Yan*(2022) Consumer Interests and Environmental Responsibility Initiatives in Luxury Contexts: 
-The Moderating Role of Message Framing and Organization Nature. 2022 International Conference on Global Cultural and Creative Industries(SJTU ICCI). Accepted.
+[3] Cheng Xu, He Yan*(2022) Consumer Interests and Environmental Responsibility Initiatives in Luxury Contexts: The Moderating Role of Message Framing and Organization Nature. 2022 International Conference on Global Cultural and Creative Industries(SJTU ICCI). Accepted.
 
 [4] Cheng Xu, Wanfang Xiong, He Yan(2022) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Presented at The Academy of Innovation, Entrepreneurship, and Knowledge[(ACIEK)](https://www.aciek-academy.com) Conference Seville 2022, June 28-30. 
-[5] Cheng Xu, Hao Xu, He Yan(2022) Structured Products Dynamic Hedging Based on Reinforcement Learning. Journal of Risk and Financial Management.(ABDC-B, SSCI). Submitted.
 
-[6] Cheng Xu, Haibo Zhou, He Yan (2022) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. International Journal of Entrepreneurial Behaviour Research. (ABS 3, SSCI). Submitted.
+[5] Hao Xu, Cheng Xu, He Yan, Yanqi Sun(2022) Structured Products Dynamic Hedging Based on Reinforcement Learning. Journal of Ambient Intelligence and Humanized Computing.(Q1, SCI). Accepted.
+
+[6] Cheng Xu, Haibo Zhou, He Yan(2022) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. International Journal of Entrepreneurial Behaviour Research. (ABS 3, SSCI). Accepted.
 
 
 Patents
