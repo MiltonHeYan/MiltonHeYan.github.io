@@ -17,7 +17,7 @@ Publications & Conference Presentations
 
 [2] He Yan*(2023) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. The Academy of Innovation, Entrepreneurship, and Knowledge [(ACIEK)](https://www.aciek-academy.com) Conference ESIC MADRID 2023. Accepted.
 
-[3] Cheng Xu, He Yan*(2022) Consumer Interests and Environmental Responsibility Initiatives in Luxury Contexts: The Moderating Role of Message Framing and Organization Nature. 2022 International Conference on Global Cultural and Creative Industries(SJTU ICCI). Accepted.
+[3] Cheng Xu, He Yan*(2022) Consumer Interests and Environmental Responsibility Initiatives in Luxury Contexts: The Moderating Role of Message Framing and Organization Nature. [2022 International Conference on Global Cultural and Creative Industries(SJTU ICCI)](https://conference.icci.sjtu.edu.cn/en). December 4, 2022.
 
 [4] Cheng Xu, Wanfang Xiong, He Yan(2022) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Presented at The Academy of Innovation, Entrepreneurship, and Knowledge[(ACIEK)](https://www.aciek-academy.com) Conference Seville 2022, June 28-30. 
 
