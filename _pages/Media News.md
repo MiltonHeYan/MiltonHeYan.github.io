@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+2022.12.11 [XJTLUer Got 8 Prizes in the Highest-level Entrepreneurship Competition in China](https://mp.weixin.qq.com/s/ULFPHT0yGx4K7hItsAFSlg)XJTLU
+
+2022.12.1 [2022 SJTU ICCI Conference Full Agenda Release](https://mp.weixin.qq.com/s/bIKmTBvEsjiYWSjkkmRCMA)Shanghai Jiao Tong University
+
+2022.11.15 [XJTUer Got 7 Gold Prize in 2022 "Internet+" Entrepreneurship Competition](https://mp.weixin.qq.com/s/ug4L5835CuaC8gE9dpArFA)Xi'an Jiaotong University.
 
 2022.9.4 [XJTLUer Got Excellent Grades in "Challenge Cup" Competition](https://mp.weixin.qq.com/s/RX97FYR33gy_QSlslR1eaQ)XJTLU Career Center
 
