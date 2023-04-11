@@ -31,7 +31,7 @@ Entrepreneur Experience
 
 [Smarton Technology – Power Supply EDA Software Platform](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)---Co-Founder&CMO 
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="100%" height="100%" />
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="47.8%" height="47.8%" /><img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Founders.png" width="40%" height="40%" />    
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="47.8%" height="47.8%" /><img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Founders.png" width="52%" height="52%" />    
 
 [Hezi Technologies(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
 Co- Founder&CTO:[Dr.Kangshi Wang](https://scholar.google.com/citations?user=Ui5wajwAAAAJ&hl=zh-CN&oi=ao)
