@@ -26,10 +26,10 @@ Publications & Conference Presentations
 [6] Cheng Xu, Haibo Zhou, He Yan(2022) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. International Journal of Entrepreneurial Behaviour Research. (ABS 3, SSCI). Accepted.
 
 
-Entrepreneur Experience
-===
 
 [Smarton Technology – Power Supply EDA Software Platform](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)---Co-Founder&CMO 
+=====
+[[Introduction]](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)[[Roadshow]](https://youtu.be/5KcdxmFljt4)
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="100%" height="100%" />
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="47.8%" height="47.8%" /><img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Founders.png" width="52%" height="52%" />    
 
