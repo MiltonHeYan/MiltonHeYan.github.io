@@ -13,7 +13,8 @@ I founded two companies as the main shareholder, you can click to see the compan
 [Smarton Technology – Power Supply EDA Software Platform](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)---Co-Founder&CMO 
 =====
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="37.8%" height="37.8%" /><img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Founders.png" width="40%" height="40%" />    
-
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="78%" height="78%" />  
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="78%" height="78%" />
 
 [Hezi Technologies(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
 ======
