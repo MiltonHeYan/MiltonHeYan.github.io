@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing [Bsc Information Management and Information Systems](https://www.xjtlu.edu.cn/en/study/undergraduate/information-management-and-information-systems) degree from [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) and [Bsc Financial Computing](https://www.liverpool.ac.uk/study/undergraduate/courses/e-finance-bsc-hons/overview/?course-auto-complete=yes&course-search-location=homepage)degree in [University of Liverpool (UoL)](https://www.liverpool.ac.uk) now.  
+I'm pursuing [Bsc Information Management and Information Systems](https://www.xjtlu.edu.cn/en/study/undergraduate/information-management-and-information-systems) degree from [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) and [University of Liverpool (UoL)](https://www.liverpool.ac.uk) now.  
 
 Publications & Conference Presentations
 ======
@@ -30,16 +30,13 @@ Entrepreneur Experience
 ===
 
 [Smarton Technology – Power Supply EDA Software Platform](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)---Co-Founder&CMO 
-=====
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="78%" height="78%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="78%" height="78%" />
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="37.8%" height="37.8%" /><img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Founders.png" width="40%" height="40%" />    
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="47.8%" height="47.8%" /><img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Founders.png" width="40%" height="40%" />    
 
 [Hezi Technologies(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
-======
 Co- Founder&CTO:[Dr.Kangshi Wang](https://scholar.google.com/citations?user=Ui5wajwAAAAJ&hl=zh-CN&oi=ao)
 
 [Suzhou Xiyou Network Technologies Co., Ltd.](https://aiqicha.baidu.com/company_detail_93481733330222)---Co-Founder
-======
 * "Who‘s Here" Map-based Social App 
 [[Download]](https://whoshere.fuiyoo.tech)
 
