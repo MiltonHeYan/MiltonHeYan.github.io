@@ -19,12 +19,16 @@ I founded two companies as the main shareholder, you can click to see the compan
 
 [Hezi Tech(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
 =====
+
 [Suzhou Xiyou Network Technologies Co., Ltd.](https://aiqicha.baidu.com/company_detail_93481733330222)---Shareholder
 =====
+
 [Yuanhe Tech(Changzhou) Co.,Ltd.](https://aiqicha.baidu.com/detail/compinfo?pid=86074694235158&rq=ef&pd=ee&from=ps)---Shareholder
 =====
+
 ["Who‘s Here" Map-based Social App](https://whoshere.fuiyoo.tech)---Founder
 =====
+
 <img src="https://github.com/MiltonHeYan/MiltonHeYan.github.io/raw/master/images/bubble_setting.gif" width="20%" height="20%" />                <img src="https://github.com/MiltonHeYan/MiltonHeYan.github.io/raw/master/images/greeting.gif" width="20%" height="20%" /> 
 
 
