@@ -33,16 +33,16 @@ Publications & Conference Presentations
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="100%" height="100%" />
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="47.8%" height="47.8%" /><img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Founders.png" width="52%" height="52%" />    
 
-[Hezi Technologies(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
-Co- Founder&CTO:[Dr.Kangshi Wang](https://scholar.google.com/citations?user=Ui5wajwAAAAJ&hl=zh-CN&oi=ao)
+[Hezi Tech(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
+=====
+[Suzhou Xiyou Network Technologies Co., Ltd.](https://aiqicha.baidu.com/company_detail_93481733330222)---Shareholder
+=====
+[Yuanhe Tech(Changzhou) Co.,Ltd.](https://aiqicha.baidu.com/detail/compinfo?pid=86074694235158&rq=ef&pd=ee&from=ps)---Shareholder
+=====
+["Who‘s Here" Map-based Social App](https://whoshere.fuiyoo.tech)---Founder
+=====
+<img src="https://github.com/MiltonHeYan/MiltonHeYan.github.io/raw/master/images/bubble_setting.gif" width="20%" height="20%" />                <img src="https://github.com/MiltonHeYan/MiltonHeYan.github.io/raw/master/images/greeting.gif" width="20%" height="20%" /> 
 
-[Suzhou Xiyou Network Technologies Co., Ltd.](https://aiqicha.baidu.com/company_detail_93481733330222)---Co-Founder
-* "Who‘s Here" Map-based Social App 
-[[Download]](https://whoshere.fuiyoo.tech)
-
-* Xiyou Glamping[[Official Account]](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5NjY0NTk3OQ==&scene=124#wechat_redirect)
-
- <img src="https://github.com/MiltonHeYan/MiltonHeYan.github.io/raw/master/images/bubble_setting.gif" width="20%" height="20%" />                <img src="https://github.com/MiltonHeYan/MiltonHeYan.github.io/raw/master/images/greeting.gif" width="20%" height="20%" /> 
 
 Awards&Honors
 ===
