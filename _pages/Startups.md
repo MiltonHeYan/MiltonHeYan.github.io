@@ -10,18 +10,14 @@ redirect_from:
 {% include base_path %}
 I founded two companies as the main shareholder, you can click to see the company profile and project profile.
 
+[Smarton Technology – Power Supply EDA Software Platform]()---Co-Founder&CMO
+=====
+
+ 
+
 [Hezi Technologies(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
 ======
 Co- Founder&CTO:[Dr.Kangshi Wang](https://scholar.google.com/citations?user=Ui5wajwAAAAJ&hl=zh-CN&oi=ao)
-
-[[Patents]]() [[Software Copyright]]()
-* Demeter Box
-* AI Planting Robots
-* Blue² Intelligent River Cleaning Boat[[Introduction]]()
-* ESGrow-3D Intelligent Solution For Urban Farms[[Introduction]](http://miltonheyan.github.io/files/lfc4ef9da622e0edec4962de8aaa210f4-s5252621553310545205-mf86c73e79c914036b4f46f58f7bf24a1.pdf)
-
-
-
 
 [Suzhou Xiyou Network Technologies Co., Ltd.](https://aiqicha.baidu.com/company_detail_93481733330222)---Co-Founder&CPO
 ======
