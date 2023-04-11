@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing [Bsc Information Management and Information Systems](https://www.xjtlu.edu.cn/en/study/undergraduate/information-management-and-information-systems) degree from [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) and [University of Liverpool (UoL)](https://www.liverpool.ac.uk) now.  
+I am currently running my startup company and a research organization. You can learn more about my entrepreneurial projects, academic publications, awards, and media coverage through this website.
 
-Publications & Conference Presentations
+Publications(The Latest)
 ======
 
 [1] Cheng Xu, Yanqi Sun, Jiawei Wang, He Yan, Wanfang Xiong(2023) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Journal of Consumer Behaviour. (ABDC-A, SSCI). doi: [http://doi.org/10.1002/cb.2141](http://doi.org/10.1002/cb.2141)
@@ -19,11 +19,7 @@ Publications & Conference Presentations
 
 [3] Cheng Xu, He Yan*(2022) Consumer Interests and Environmental Responsibility Initiatives in Luxury Contexts: The Moderating Role of Message Framing and Organization Nature. [2022 International Conference on Global Cultural and Creative Industries(SJTU ICCI)](https://conference.icci.sjtu.edu.cn/en). December 4, 2022.
 
-[4] Cheng Xu, Wanfang Xiong, He Yan(2022) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Presented at The Academy of Innovation, Entrepreneurship, and Knowledge[(ACIEK)](https://www.aciek-academy.com) Conference Seville 2022, June 28-30. 
-
-[5] Hao Xu, Cheng Xu, He Yan, Yanqi Sun(2022) Structured Products Dynamic Hedging Based on Reinforcement Learning. Journal of Ambient Intelligence and Humanized Computing.(Q1, SCI). Accepted.
-
-[6] Cheng Xu, Haibo Zhou, He Yan(2022) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. International Journal of Entrepreneurial Behaviour Research. (ABS 3, SSCI). Accepted.
+......[[More]](https://miltonheyan.github.io/Academic/)
 
 
 
