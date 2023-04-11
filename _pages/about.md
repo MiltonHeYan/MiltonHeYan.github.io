@@ -13,11 +13,11 @@ I am currently running my startup company and a research organization. You can l
 Publications(The Latest)
 ======
 
-[1] Cheng Xu, Yanqi Sun, Jiawei Wang, He Yan, Wanfang Xiong(2023) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Journal of Consumer Behaviour. (ABDC-A, SSCI). doi: [http://doi.org/10.1002/cb.2141](http://doi.org/10.1002/cb.2141)
+[1] Cheng Xu, Yanqi Sun, Jiawei Wang, He Yan, Wanfang Xiong(2023) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Journal of Consumer Behaviour. (ABDC-A, SSCI). doi: [http://doi.org/10.1002/cb.2141](http://doi.org/10.1002/cb.2141)[[Paper]](MiltonHeYan.github.io/files/JCB.pdf)
 
 [2] He Yan*(2023) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. The Academy of Innovation, Entrepreneurship, and Knowledge [(ACIEK)](https://www.aciek-academy.com) Conference ESIC MADRID 2023. Accepted.
 
-[3] Cheng Xu, He Yan*(2022) Consumer Interests and Environmental Responsibility Initiatives in Luxury Contexts: The Moderating Role of Message Framing and Organization Nature. [2022 International Conference on Global Cultural and Creative Industries(SJTU ICCI)](https://conference.icci.sjtu.edu.cn/en). December 4, 2022.
+[3] Cheng Xu, He Yan*(2022) Consumer Interests and Environmental Responsibility Initiatives in Luxury Contexts: The Moderating Role of Message Framing and Organization Nature. [2022 International Conference on Global Cultural and Creative Industries(SJTU ICCI)](https://conference.icci.sjtu.edu.cn/en). December 4, 2022.[[Paper]](MiltonHeYan.github.io/files/SJTU-USC_ICCI.pdf)
 
 ......[[More]](https://miltonheyan.github.io/Academic/)
 
