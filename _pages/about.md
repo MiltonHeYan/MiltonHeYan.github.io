@@ -23,7 +23,7 @@ Publications(The Latest)
 
 
 
-[Smarton Technology – Power Supply EDA Software Platform](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)---Co-Founder&CMO 
+[Smarton Technology – Power Supply EDA Software Platform]---Co-Founder&CMO 
 =====
 [[Introduction]](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)[[Roadshow]](https://youtu.be/5KcdxmFljt4)
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="100%" height="100%" />
