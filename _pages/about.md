@@ -23,7 +23,7 @@ Publications(The Latest)
 
 
 
-[Smarton Technology – Power Supply EDA Software Platform]---Co-Founder&CMO 
+Smarton Technology – Power Supply EDA Software Platform---Co-Founder&CMO 
 =====
 [[Introduction]](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)[[Roadshow]](https://youtu.be/5KcdxmFljt4)
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="100%" height="100%" />
@@ -34,7 +34,7 @@ Publications(The Latest)
 
 Awards&Honors
 ===
-2022 [The 8th China International College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/)Gold Award (National) (Top6 of 3.4million), Ministry of Education of People’s Republic of China
+2022 [The 8th China International College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition](https://cy.ncss.cn/en/)Gold Award (National) (No.3 of 3.4million), Ministry of Education of People’s Republic of China
 
 
 2022 [Microsoft Imagine Cup](https://imaginecup.microsoft.com/zh-cn)Chinese Final [Excellence Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/微软创新杯国家.jpg), Microsoft
