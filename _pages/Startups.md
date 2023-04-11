@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 I founded two companies as the main shareholder, you can click to see the company profile and project profile.
 
-[Smarton Technology – Power Supply EDA Software Platform](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)---Co-Founder&CMO
+[Smarton Technology – Power Supply EDA Software Platform](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)---Co-Founder&CMO 
 =====
-
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="30%" height="30%" />  
 
  
 
