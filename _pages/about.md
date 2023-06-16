@@ -58,7 +58,6 @@ The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www
 The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)Jiangsu Province [First Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg), Chinese Association for Artificial Intelligence
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg)
 
-2022 XJTLU Appraisal Entrepreneur Star [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/创业之星.jpg)
 
 Media Press
 ===
