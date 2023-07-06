@@ -13,7 +13,7 @@ I am currently running my startup company and a research organization. You can l
 Publications
 ======
 
-[1] Hao Xu, Cheng Xu, He Yan, Yanqi Sun(2023) Structured Products Dynamic Hedging Based on Reinforcement Learning. Journal of Ambient Intelligence and Humanized Computing.(Q1, SCI). doi: [https://doi.org/10.1007/s12652-023-04657-y](https://doi.org/10.1007/s12652-023-04657-y)
+[1] Hao Xu, Cheng Xu, He Yan, Yanqi Sun(2023) Structured Products Dynamic Hedging Based on Reinforcement Learning. Journal of Ambient Intelligence and Humanized Computing.(Q1, SCI). doi: [https://doi.org/10.1007/s12652-023-04657-y](https://doi.org/10.1007/s12652-023-04657-y) [[Paper]](http://MiltonHeYan.github.io/files/dynamichedging.pdf)
 
 [2] Cheng Xu, Yanqi Sun, Jiawei Wang, He Yan, Wanfang Xiong(2023) Consumer Privacy Concerns in Entrepreneurial Contexts: Evidence from an Online Experiment. Journal of Consumer Behaviour. (ABDC-A, SSCI). doi: [http://doi.org/10.1002/cb.2141](http://doi.org/10.1002/cb.2141)
 [[Paper]](http://MiltonHeYan.github.io/files/JCB.pdf)
