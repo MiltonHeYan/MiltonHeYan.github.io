@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently running my startup company and a research organization. You can learn more about my entrepreneurial projects, academic publications, awards, and media coverage through this website.
 
-Publications(The Latest)
+Publications
 ======
 
 [1] Hao Xu, Cheng Xu, He Yan, Yanqi Sun(2023) Structured Products Dynamic Hedging Based on Reinforcement Learning. Journal of Ambient Intelligence and Humanized Computing.(Q1, SCI). doi: [https://doi.org/10.1007/s12652-023-04657-y](https://doi.org/10.1007/s12652-023-04657-y)
@@ -29,8 +29,9 @@ Publications(The Latest)
 Smarton Technology – Power Supply EDA Software Platform---Co-Founder&CMO 
 =====
 [[Introduction]](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)[[Roadshow]](https://youtu.be/5KcdxmFljt4)
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Product.png" width="100%" height="100%" />
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Coverpage.jpeg" width="47.8%" height="47.8%" /><img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Founders.png" width="52%" height="52%" />    
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> 
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/SmartonHead.jpeg" width="100%" height="100%" />
+
 
 ......[[More]](https://miltonheyan.github.io/Startups/)
 
