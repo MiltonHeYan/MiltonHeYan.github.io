@@ -26,7 +26,7 @@ Publications
 
 
 
-Smarton Technology – Power Supply EDA Software Platform---Co-Founder&CMO 
+Smarton Technology – Power Supply EDA Software Platform---Co-Founder 
 =====
 [[Introduction]](http://MiltonHeYan.github.io/files/Smarton_Technology.pdf)[[Roadshow]](https://youtu.be/5KcdxmFljt4)
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> 
@@ -65,11 +65,8 @@ The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg)
 
 
-Media Press
-===
-2022.12.1 [2022 SJTU ICCI Conference Full Agenda Release](https://mp.weixin.qq.com/s/bIKmTBvEsjiYWSjkkmRCMA)Shanghai Jiao Tong University
 
-2021.12.3 [Microsoft Imagine Cup Final List](https://mp.weixin.qq.com/s/VGMwfI1Xh8KpGmqH276_dA)Microsoft Technology
+
 
 
 
