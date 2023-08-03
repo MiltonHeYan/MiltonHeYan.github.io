@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-2022.12.1 [2022 SJTU ICCI Conference Full Agenda Release](https://mp.weixin.qq.com/s/bIKmTBvEsjiYWSjkkmRCMA)Shanghai Jiao Tong University
-
-2021.12.3 [Microsoft Imagine Cup Final List](https://mp.weixin.qq.com/s/VGMwfI1Xh8KpGmqH276_dA)Microsoft Technology
-
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A1.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A2.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A3.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A4.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A5.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A6.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A7.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A8.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A9.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A10.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A11.jpeg" width="100%" height="100%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/A12.jpeg" width="100%" height="100%" /> 
 
 
 
