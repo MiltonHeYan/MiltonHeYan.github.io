@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "He Yan"
 title_separator          : "-"
 name                     : &name "He Yan"
-description              : &description "I'm now a year 3 Undergraduate of Xi 'an Jiaotong-Liverpool University. I major in Information Management and Information Systems"
+description              : &description "."
 url                      : https://MiltonHeYan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MiltonHeYan.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=7HlUyXIAAAAJ&hl=zh-CN"
-  email            :
+  email            : "miltonheyan@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://twitter.com/miltonheyan
   vine             :
   weibo            :
   xing             :
