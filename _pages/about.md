@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently running my startup company and a research organization. You can learn more about my entrepreneurial projects, academic publications, awards, and media coverage through this website.
+I am currently running my startup company and a podcast. You can learn more about my companies, academic publications, awards, and media coverage through this website.
 
 Publications
 ======
@@ -49,8 +49,8 @@ Awards&Honors
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/2021中美国家.jpg)
 
 
-The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)National Final [Second Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jp), Chinese Association for Artificial Intelligence
-[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jp)
+The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)National Final [Second Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jpg), Chinese Association for Artificial Intelligence
+[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jpg)
 
 
 2021 [Bosch Grow Universe](https://www.bosch.com.cn/careers/job-offers/campus-recruitment/grow-universe/)Final [Top5](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Certificate_GROW%20UNIVERSE_Demeter%20Box_00.jpg), Bosch
@@ -61,8 +61,8 @@ The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/2021中美苏州.jpg)
 
 
-The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)Jiangsu Province [First Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jp), Chinese Association for Artificial Intelligence
-[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jp)
+The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)Jiangsu Province [First Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg), Chinese Association for Artificial Intelligence
+[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg)
 
 
 
