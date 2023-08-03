@@ -20,7 +20,7 @@ redirect_from:
 
 
 The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)National Final [Second Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jp), Chinese Association for Artificial Intelligence
-[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jpg)
+[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jp)
 
 
 2021 [Bosch Grow Universe](https://www.bosch.com.cn/careers/job-offers/campus-recruitment/grow-universe/)Final [Top5](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Certificate_GROW%20UNIVERSE_Demeter%20Box_00.jpg), Bosch
@@ -32,7 +32,7 @@ The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www
 
 
 The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)Jiangsu Province [First Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jp), Chinese Association for Artificial Intelligence
-[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg)
+[[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jp)
 
 
 
