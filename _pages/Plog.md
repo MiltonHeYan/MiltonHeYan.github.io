@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Media News"
-permalink: /Media News/
+title: "Plog"
+permalink: /Plog/
 author_profile: true
 redirect_from:
   - /resume
