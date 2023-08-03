@@ -49,7 +49,7 @@ Awards&Honors
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/2021中美国家.jpg)
 
 
-The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)National Final [Second Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jpg), Chinese Association for Artificial Intelligence
+The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)National Final [Second Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jp), Chinese Association for Artificial Intelligence
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2国家_00.jpg)
 
 
@@ -61,7 +61,7 @@ The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/2021中美苏州.jpg)
 
 
-The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)Jiangsu Province [First Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg), Chinese Association for Artificial Intelligence
+The 23rd [China Robot and Artificial Intelligence Competition(CRAIC)](http://www.caairobot.com)Jiangsu Province [First Prize](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jp), Chinese Association for Artificial Intelligence
 [[Certificate]](https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Blue2省级.jpg)
 
 
