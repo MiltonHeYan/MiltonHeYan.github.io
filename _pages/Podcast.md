@@ -15,4 +15,4 @@ redirect_from:
 Recommended Paper
 ===
 
-Disruptive Technologies: Catching the Wave.
+Disruptive Technologies: Catching the Wave.[[Paper]](http://MiltonHeYan.github.io/files/DisruptiveTechnologies.pdf)
