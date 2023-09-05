@@ -12,7 +12,3 @@ redirect_from:
 创投情报局
 ===
 
-Recommended Paper
-===
-
-Disruptive Technologies: Catching the Wave.[[Paper]](http://MiltonHeYan.github.io/files/DisruptiveTechnologies.pdf)
