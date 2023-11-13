@@ -16,19 +16,13 @@ Smarton Technology – Power Supply EDA Software Platform---Co-Founder
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> 
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/SmartonHead.jpeg" width="100%" height="100%" />
    
-[Hezi Tech(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
+
+["Who‘s Here" Map-based Social App](http://www.whoshereapp.top)---Founder
 =====
 
-[Suzhou Xiyou Network Technologies Co., Ltd.](https://aiqicha.baidu.com/company_detail_93481733330222)---Shareholder
+[Hezi Tech(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)---Founder&CEO
 =====
 
 [Yuanhe Tech(Changzhou) Co.,Ltd.](https://aiqicha.baidu.com/detail/compinfo?pid=86074694235158&rq=ef&pd=ee&from=ps)---Shareholder
 =====
-
-["Who‘s Here" Map-based Social App](https://whoshere.fuiyoo.tech)---Founder
-=====
-
-<img src="https://github.com/MiltonHeYan/MiltonHeYan.github.io/raw/master/images/bubble_setting.gif" width="20%" height="20%" />                <img src="https://github.com/MiltonHeYan/MiltonHeYan.github.io/raw/master/images/greeting.gif" width="20%" height="20%" /> 
-
-
 
