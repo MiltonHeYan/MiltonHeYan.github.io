@@ -30,15 +30,18 @@ Publications
 ......[[More]](https://miltonheyan.github.io/Academic/)
 
 
+["Who‘s Here" Map-based Networking App](http://www.whoshereapp.top)
+=====
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/whos.jpeg" width="100%" height="100%" />
 
-Smarton Technology – Power Supply EDA Software Platform---Co-Founder 
+
+Smarton Technology – Power Supply EDA Software Platform
 =====
 [[Introduction]](http://MiltonHeYan.github.io/files/Smarton_BP.pdf)[[Roadshow]](https://youtu.be/5KcdxmFljt4)
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> 
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/SmartonHead.jpeg" width="100%" height="100%" />
 
-["Who‘s Here" Map-based Social App](http://www.whoshereapp.top)---Founder
-=====
+
 
 ......[[More]](https://miltonheyan.github.io/Startups/)
 
