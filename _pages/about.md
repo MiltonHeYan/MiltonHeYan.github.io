@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently running my startup company Meep. You can learn more about my companies, academic publications, awards, and media coverage through this website.
+I am running my startup Meep. You can learn more about my companies, academic publications, awards, and media coverage through this website.
 
 Publications
 ======
