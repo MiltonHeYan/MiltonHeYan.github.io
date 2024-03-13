@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am running my startup Meep. You can learn more about my companies, academic publications, awards, and media coverage through this website.
+Hello world. I'm Milton, Founder&CEO@Meep, the first batch of founders in Zhenfund's 100 Million RMB Post-00s program. My academic research areas include fintech, blockchain, human-computer interaction and entrepreneurship.
 
 Publications
 ======
