@@ -10,6 +10,22 @@ redirect_from:
 
 Hello world. I'm Milton, Founder&CEO@Meep, the first batch of founders in Zhenfund's 100 Million RMB Post-00s program. My academic research areas include fintech, blockchain, human-computer interaction and entrepreneurship.
 
+[Meep.ai](http://www.meep.group/#/index)-Meet up with groups on the map within 3 minutes
+=====
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/whos.jpeg" width="100%" height="100%" />
+
+
+Smarton Technology – Power Supply EDA Software Platform
+=====
+[[Introduction]](http://MiltonHeYan.github.io/files/Smarton_BP.pdf)[[Roadshow]](https://youtu.be/5KcdxmFljt4)
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> 
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/SmartonHead.jpeg" width="100%" height="100%" />
+
+
+
+......[[More]](https://miltonheyan.github.io/Startups/)
+
+
 Publications
 ======
 
@@ -28,22 +44,6 @@ Publications
 
 [7] Cheng Xu, Haibo Zhou, He Yan(2022) The Process of Entrepreneurial Contextualization: The Case of Hongbang Entrepreneurs (1896-1949) in China. International Journal of Entrepreneurial Behaviour Research. (ABS 3, SSCI).RR
 ......[[More]](https://miltonheyan.github.io/Academic/)
-
-
-["Who‘s Here" Map-based Networking App](http://www.whoshereapp.top)
-=====
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/whos.jpeg" width="100%" height="100%" />
-
-
-Smarton Technology – Power Supply EDA Software Platform
-=====
-[[Introduction]](http://MiltonHeYan.github.io/files/Smarton_BP.pdf)[[Roadshow]](https://youtu.be/5KcdxmFljt4)
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> 
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/SmartonHead.jpeg" width="100%" height="100%" />
-
-
-
-......[[More]](https://miltonheyan.github.io/Startups/)
 
 
 Awards&Honors
