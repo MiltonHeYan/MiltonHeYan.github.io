@@ -12,7 +12,6 @@ Hello world. I'm Milton, Founder&CEO@Meep, the first batch of founders in Zhenfu
 
 [Meep.ai](http://www.meep.group/#/index)-Meet up with groups on the map within 3 minutes
 =====
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/whos.jpeg" width="100%" height="100%" />
 
 
 Smarton Technology – Power Supply EDA Software Platform
