@@ -11,7 +11,7 @@ redirect_from:
 
 [Meep.ai]
 =====
-[[Introduction]](http://MiltonHeYan.github.io/files/Meep_Pitch_Deck.pdf)
+[[Introduction]](http://MiltonHeYan.github.io/files/MeepPitchDeck.pdf)
 [[Download]](https://apps.apple.com/us/app/meep-ai/id6472606673)
 
 Smarton Technology – Power Supply EDA Software Platform
