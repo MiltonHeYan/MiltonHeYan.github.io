@@ -11,8 +11,8 @@ redirect_from:
 
 [Meep.ai]
 =====
-<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/whos.jpeg" width="100%" height="100%" />
-[[Introduction]](http://MiltonHeYan.github.io/files/Meep_Pitch_Deck.pdf)
+[[Introduction]](http://MiltonHeYan.github.io/files/Smarton_BP.pdf)
+[[Download]](https://apps.apple.com/us/app/meep-ai/id6472606673)
 
 Smarton Technology – Power Supply EDA Software Platform
 =====
@@ -20,10 +20,4 @@ Smarton Technology – Power Supply EDA Software Platform
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Smarton_Slogan.png" width="100%" height="100%" /> 
 <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/SmartonHead.jpeg" width="100%" height="100%" />
    
-
-[Hezi Tech(Suzhou) Co., Ltd.](https://aiqicha.baidu.com/company_detail_92617227106918)
-=====
-
-[Yuanhe Tech(Changzhou) Co.,Ltd.](https://aiqicha.baidu.com/detail/compinfo?pid=86074694235158&rq=ef&pd=ee&from=ps)
-=====
 
