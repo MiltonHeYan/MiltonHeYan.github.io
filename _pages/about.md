@@ -15,7 +15,7 @@ Hello world. I'm Milton. My academic research areas include fintech, blockchain,
 
 Web Share Card
 =====
-
+Chrome Extension: It allows users to take screenshots that clearly show the website content to the recipient, and easily scan the QR code to access the full site. The images are also stored neatly in the gallery for better management of interesting web content.
 [[Download in Chrome Store]](https://chromewebstore.google.com/detail/web-share-card/lfcbgnofdnjodneojhcbkjhhnjnaijii?utm_source=ext_app_menu)
 
 
