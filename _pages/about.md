@@ -12,8 +12,10 @@ Hello world. I'm Milton. My academic research areas include fintech, blockchain,
 
 [Recent Projects]
 =====
-[Web Share Card]
+
+Web Share Card
 =====
+
 [[Download in Chrome Store]](https://chromewebstore.google.com/detail/web-share-card/lfcbgnofdnjodneojhcbkjhhnjnaijii?utm_source=ext_app_menu)
 
 
