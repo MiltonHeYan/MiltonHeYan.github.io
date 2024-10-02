@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello world. I'm Milton, Founder&CEO@Meep, the first batch of founders in Zhenfund's 100 Million RMB Post-00s program. My academic research areas include fintech, blockchain, human-computer interaction and entrepreneurship.
+Hello world. I'm Milton. My academic research areas include fintech, blockchain, human-computer interaction and entrepreneurship.
+
+[Recent Projects]
+=====
+[Web Share Card]
+=====
+[[Download in Chrome Store]](https://chromewebstore.google.com/detail/web-share-card/lfcbgnofdnjodneojhcbkjhhnjnaijii?utm_source=ext_app_menu)
+
 
 [Meep.ai](http://www.meep.group/#/index)-Meet up with groups on the map within 3 minutes
 =====
