@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm He Yan 严訸"
+title: "Hi, I'm Milton"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
