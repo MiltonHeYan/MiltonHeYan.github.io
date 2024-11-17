@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Keting.tech-AI Podcast
+====
+[[Download in App Store]](https://apps.apple.com/app/%E5%8F%AF%E5%90%AC/id6736756780)
+[[Website]](http://keting.tech)
+
+
+
 [Web Share Card]
 =====
 [Download in Chrome Store](https://chromewebstore.google.com/detail/web-share-card/lfcbgnofdnjodneojhcbkjhhnjnaijii?utm_source=ext_app_menu)
