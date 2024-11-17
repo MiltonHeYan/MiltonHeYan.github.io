@@ -21,7 +21,7 @@ Chrome Extension: It allows users to take screenshots that clearly show the webs
 
 [Meep.ai](http://www.meep.group/#/index)-Meet up with groups on the map within 3 minutes
 =====
-
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/keting.jpeg" width="10%" height="10%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Glowi.jpeg" width="10%" height="10%" /> 
 
 Smarton Technology – Power Supply EDA Software Platform
 =====
