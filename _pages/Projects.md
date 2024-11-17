@@ -14,6 +14,7 @@ Keting.tech-AI Podcast
 [[Download in App Store]](https://apps.apple.com/app/%E5%8F%AF%E5%90%AC/id6736756780)
 [[Website]](http://keting.tech)
 
+<img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/keting.jpeg" width="10%" height="10%" /> <img src="https://raw.githubusercontent.com/MiltonHeYan/MiltonHeYan.github.io/master/images/Glowi.jpeg" width="10%" height="10%" /> 
 
 
 [Web Share Card]
