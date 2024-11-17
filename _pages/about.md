@@ -12,7 +12,10 @@ Hello world. I'm Milton. My academic research areas include fintech, blockchain,
 
 [Recent Projects]
 =====
-
+Keting.tech-AI Podcast
+====
+[[Download in App Store]](https://apps.apple.com/app/%E5%8F%AF%E5%90%AC/id6736756780)
+[[Website]](http://keting.tech)
 Web Share Card
 =====
 Chrome Extension: It allows users to take screenshots that clearly show the website content to the recipient, and easily scan the QR code to access the full site. The images are also stored neatly in the gallery for better management of interesting web content.
