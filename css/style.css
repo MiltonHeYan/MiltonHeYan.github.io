@@ -1,0 +1,1188 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Microsoft YaHei", sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 1rem;
+}
+
+nav ul li {
+    margin: 0 1.5rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #007bff;
+}
+
+.hero {
+    height: auto;
+    min-height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    padding: 120px 0 40px;
+}
+
+.profile-container {
+    text-align: center;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    object-fit: cover;
+}
+
+section {
+    padding: 5rem 2rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.contact-info {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.contact-info p {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    color: #2c3e50;
+}
+
+.social-links {
+    margin-top: 1rem;
+}
+
+.social-links a {
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.wechat-link {
+    text-decoration: none;
+    color: #2c3e50;
+    font-size: 1.1rem;
+    transition: color 0.3s;
+}
+
+.wechat-link:hover {
+    color: #3498db;
+}
+
+.wechat-id {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f9fa;
+}
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 0.5rem 0;
+    }
+}
+
+/* 项目页面样式 */
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.project-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.project-card h2 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.project-date {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+/* 学术页面样式 */
+.academic-section {
+    padding: 6rem 2rem 2rem;
+}
+
+.paper-list {
+    list-style: none;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.paper-list li {
+    background: #fff;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* 相册页面样式 */
+.gallery-section {
+    padding: 6rem 2rem 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    padding: 1.5rem 0;
+}
+
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+    background: #fff;
+}
+
+.gallery-item:hover {
+    transform: translateY(-5px);
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: contain;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.gallery-item:hover img {
+    transform: scale(1.05);
+}
+
+.gallery-item.wide {
+    grid-column: span 2;
+}
+
+.gallery-item.wide img {
+    max-height: 400px;
+}
+
+.gallery-item.full-width {
+    grid-column: 1 / -1;
+}
+
+.gallery-item.full-width img {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: auto;
+    max-height: 600px;
+}
+
+@media (max-width: 768px) {
+    .gallery-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+    }
+
+    .gallery-item.wide {
+        grid-column: auto;
+    }
+
+    .gallery-item img {
+        max-height: 250px;
+    }
+}
+
+/* 视频页面样式 */
+.videos-section {
+    padding: 6rem 2rem 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.category {
+    margin-bottom: 4rem;
+}
+
+.category h2 {
+    font-size: 1.8rem;
+    color: #2c3e50;
+    margin-bottom: 2rem;
+    text-align: left;
+}
+
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.video-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.video-card:hover {
+    transform: translateY(-5px);
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.video-card h3 {
+    padding: 1rem;
+    margin: 0;
+    font-size: 1.2rem;
+    color: #2c3e50;
+}
+
+.video-description {
+    padding: 0 1rem 1rem;
+    color: #666;
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    .videos-section {
+        padding: 5rem 1rem 1rem;
+    }
+
+    .video-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
+
+/* 学术页面的额外样式 */
+.paper-item {
+    background: #fff;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.paper-item h3 {
+    color: #2c3e50;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+}
+
+.authors {
+    color: #34495e;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.journal {
+    color: #7f8c8d;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+.paper-links {
+    margin-top: 1rem;
+}
+
+.paper-links a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-right: 1rem;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    transition: background-color 0.3s;
+}
+
+.paper-links a:hover {
+    background-color: #2980b9;
+}
+
+.paper-links .pdf-link {
+    background-color: #e74c3c;
+}
+
+.paper-links .pdf-link:hover {
+    background-color: #c0392b;
+}
+
+.academic-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 6rem 2rem 2rem;
+}
+
+.paper-list {
+    list-style: none;
+    padding: 0;
+}
+
+/* 奖项页面样式 */
+.awards-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 6rem 2rem 2rem;
+}
+
+.award-list {
+    list-style: none;
+    padding: 0;
+}
+
+.award-item {
+    background: #fff;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.award-item:hover {
+    transform: translateY(-5px);
+}
+
+.award-item h3 {
+    color: #2c3e50;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+}
+
+.award-detail {
+    color: #e74c3c;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+}
+
+.organization {
+    color: #7f8c8d;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+.award-links {
+    margin-top: 1rem;
+}
+
+.award-links a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-right: 1rem;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    transition: background-color 0.3s;
+}
+
+.award-links a:hover {
+    background-color: #2980b9;
+}
+
+.award-links .certificate-link {
+    background-color: #27ae60;
+}
+
+.award-links .certificate-link:hover {
+    background-color: #219a52;
+}
+
+/* 项目页面的APP展示样式 */
+.projects-section {
+    padding: 6rem 2rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.project-card.featured {
+    background: #fff;
+    padding: 2rem;
+    margin-bottom: 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.project-card.featured:hover {
+    transform: translateY(-5px);
+}
+
+.app-info {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.app-icon {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    border-radius: 22px;
+}
+
+.app-details {
+    flex: 1;
+}
+
+.app-details h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.app-description {
+    color: #666;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.app-meta {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.platform, .release-date {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.app-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.app-store-link img {
+    height: 40px;
+}
+
+@media (max-width: 768px) {
+    .app-info {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .app-details h2 {
+        text-align: center;
+    }
+
+    .app-meta {
+        justify-content: center;
+    }
+
+    .app-links {
+        justify-content: center;
+    }
+}
+
+/* 移动端适配 */
+@media (max-width: 1024px) {
+    .project-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Smarton 项目特殊样式 */
+.smarton-card {
+    grid-column: auto;
+}
+
+.smarton-card .project-images {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.smarton-card .project-images img {
+    width: 100%;
+    margin-bottom: 1rem;
+    max-height: 200px;
+    object-fit: contain;
+}
+
+.project-subtitle {
+    color: #666;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.project-media {
+    margin: 2rem 0;
+}
+
+.video-container {
+    margin-bottom: 2rem;
+}
+
+.project-images img {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+}
+
+.project-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.project-links a {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.project-links .pdf-link {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.project-links .video-link {
+    background-color: #3498db;
+    color: white;
+}
+
+.project-links a:hover {
+    opacity: 0.9;
+}
+
+/* Smarton 项目特殊样式 */
+.smarton-card .app-details {
+    width: 100%;
+}
+
+.project-media {
+    margin: 2rem 0;
+}
+
+.project-images img {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+/* Smarton 项目特殊样式 */
+.smarton-card .project-images {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.smarton-card .project-images img {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+/* 在较大屏幕上限制图片宽度 */
+@media (min-width: 1024px) {
+    .smarton-card .project-images {
+        max-width: 600px;
+    }
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+    color: #333;
+}
+
+.nav-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nav-name {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .nav-brand {
+        margin-bottom: 1rem;
+    }
+}
+
+.typing-text {
+    text-align: left;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.line-group {
+    margin-bottom: 1.5rem;
+}
+
+.line-group:nth-child(1) { margin-left: 0; }
+.line-group:nth-child(2) { margin-left: 4rem; }
+.line-group:nth-child(3) { margin-left: 8rem; }
+
+.typing-text .line {
+    font-size: 1.8rem;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    font-weight: 300;
+    letter-spacing: -0.02em;
+    background: linear-gradient(45deg, #2c3e50, #3498db);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* 打字机光标效果 */
+.typing-text .line::after {
+    content: "";
+    position: absolute;
+    right: -3px;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 1.6em;
+    width: 2px;
+    background: #3498db;
+    animation: blink 0.8s infinite;
+}
+
+/* 动画时间和延迟调整 */
+.line-group:nth-child(1) .line { animation: typing 2s steps(30) forwards; }
+.line-group:nth-child(2) .line { animation: typing 1.5s steps(20) forwards; animation-delay: 2s; opacity: 0; }
+.line-group:nth-child(3) .line { animation: typing 2s steps(30) forwards; animation-delay: 3.5s; opacity: 0; }
+
+@keyframes typing {
+    from {
+        width: 0;
+        opacity: 1;
+    }
+    to {
+        width: 100%;
+        opacity: 1;
+    }
+}
+
+@keyframes blink {
+    from, to { opacity: 0; }
+    50% { opacity: 1; }
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    .hero {
+        padding: 100px 0 30px;
+    }
+    
+    .typing-text {
+        padding: 0 1.5rem;
+    }
+    
+    .typing-text .line {
+        font-size: 1.4rem;
+    }
+
+    .line-group:nth-child(1) { margin-left: 0; }
+    .line-group:nth-child(2) { margin-left: 2rem; }
+    .line-group:nth-child(3) { margin-left: 4rem; }
+}
+
+/* 预览部分通用样式 */
+.preview-section {
+    padding: 3rem 2rem;
+    background: #fff;
+}
+
+.preview-section:first-of-type {
+    padding-top: 2rem;
+}
+
+.preview-section:nth-child(even) {
+    background: #f8f9fa;
+}
+
+.preview-section h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 2rem;
+    color: #2c3e50;
+}
+
+/* 项目预览卡片 */
+.preview-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.preview-card {
+    text-align: center;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.preview-card:hover {
+    transform: translateY(-5px);
+}
+
+.preview-icon {
+    width: 80px;
+    height: 80px;
+    border-radius: 16px;
+    margin-bottom: 1rem;
+}
+
+/* 学术预览 */
+.preview-papers {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.preview-paper {
+    padding: 2rem;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.preview-paper h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+}
+
+.journal {
+    color: #7f8c8d;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+/* 相册预览 */
+.preview-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.preview-gallery img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+}
+
+.preview-gallery img:hover {
+    transform: scale(1.05);
+}
+
+/* 查看更多按钮 */
+.view-more {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+    grid-column: 1 / -1;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.view-more:hover {
+    color: #2980b9;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    .hero {
+        height: auto;
+        padding: 6rem 1rem 3rem;
+    }
+
+    .preview-cards {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 添加移动端导航样式 */
+.hamburger-menu {
+    display: none;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+/* 移动端样式 */
+@media screen and (max-width: 768px) {
+    /* 导航栏优化 */
+    .nav-brand {
+        width: auto;
+        padding: 10px;
+        -webkit-box-flex: 0;
+        -webkit-flex: none;
+        flex: none;
+    }
+    
+    nav {
+        padding: 0;
+        position: relative;
+        height: 60px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+    
+    nav ul {
+        display: none;
+        width: 100%;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        background: white;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        z-index: 1000;
+        margin: 0;
+        padding: 0;
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+    }
+    
+    nav ul.active {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+    }
+    
+    nav ul li {
+        width: 100%;
+        text-align: center;
+        padding: 15px 0;
+        border-bottom: 1px solid #eee;
+        margin: 0;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    
+    .hamburger-menu {
+        display: block;
+        position: absolute;
+        right: 15px;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        font-size: 24px;
+        padding: 10px;
+        z-index: 1001;
+        cursor: pointer;
+        -webkit-tap-highlight-color: transparent;
+    }
+    
+    /* 确保内容不会被导航栏遮挡 */
+    main {
+        padding-top: 60px;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    /* 修复 Safari 上的滚动问题 */
+    body {
+        -webkit-overflow-scrolling: touch;
+        overflow-x: hidden;
+    }
+    
+    /* 确保下拉菜单在 Safari 上正确显示 */
+    header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background: white;
+        z-index: 1000;
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+    }
+    
+    /* 打字机效果文字优化 */
+    .typing-text {
+        padding: 15px;
+    }
+    
+    .typing-text .line {
+        font-size: 16px;
+        white-space: normal;  /* 允许文字换行 */
+        line-height: 1.4;
+    }
+    
+    .line-group {
+        margin-bottom: 1rem;
+    }
+    
+    .line-group:nth-child(1) { margin-left: 0; }
+    .line-group:nth-child(2) { margin-left: 10px; }
+    .line-group:nth-child(3) { margin-left: 20px; }
+    
+    /* 内容间距优化 */
+    .preview-section {
+        padding: 2rem 1rem;
+    }
+    
+    .preview-section h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .preview-cards {
+        gap: 1rem;
+    }
+    
+    .preview-card {
+        padding: 1rem;
+    }
+    
+    .preview-icon {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .preview-gallery {
+        gap: 0.8rem;
+    }
+    
+    .preview-gallery img {
+        height: 160px;
+        border-radius: 8px;
+    }
+    
+    /* 调整页面顶部间距 */
+    .hero {
+        padding: 80px 0 30px;
+    }
+    
+    /* 优化联系方式部分 */
+    .contact-info {
+        padding: 1.5rem;
+        margin: 0 1rem;
+    }
+    
+    /* 优化底部版权信息 */
+    footer {
+        padding: 1.5rem 1rem;
+        font-size: 0.9rem;
+    }
+}
+
+/* 项目页面移动端样式 */
+@media screen and (max-width: 768px) {
+    /* 已有的移动端样式保持不变 */
+    
+    /* 项目页面布局调整 */
+    .projects-section {
+        padding: 80px 1rem 2rem;
+    }
+    
+    .projects-section h1 {
+        font-size: 2rem;
+        margin-bottom: 1.5rem;
+        padding: 0 1rem;
+    }
+    
+    .project-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        padding: 0 0.5rem;
+    }
+    
+    .project-card {
+        margin-bottom: 1rem;
+        padding: 1rem;
+    }
+    
+    .app-info {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .app-icon {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 1rem;
+    }
+    
+    .app-details {
+        padding: 0;
+    }
+    
+    .app-details h2 {
+        font-size: 1.5rem;
+        margin: 0.5rem 0;
+    }
+    
+    .app-description {
+        font-size: 0.95rem;
+        line-height: 1.5;
+        margin: 0.8rem 0;
+    }
+    
+    .app-meta {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 0.8rem;
+        margin: 0.8rem 0;
+    }
+    
+    .app-meta span {
+        font-size: 0.9rem;
+    }
+    
+    .app-links img {
+        height: 40px;
+        width: auto;
+    }
+    
+    /* Smarton 卡片特殊样式 */
+    .smarton-card .project-images img {
+        max-height: 180px;
+        margin-bottom: 1rem;
+    }
+    
+    .project-subtitle {
+        font-size: 1rem;
+    }
+    
+    .project-links {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 0.8rem;
+    }
+    
+    .project-links a {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.9rem;
+    }
+} 
