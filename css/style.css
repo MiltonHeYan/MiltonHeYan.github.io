@@ -77,6 +77,7 @@ h2 {
     text-align: center;
 }
 
+/* 旧的联系方式卡片样式，可以删除了 */
 .contact-info {
     max-width: 600px;
     margin: 0 auto;
@@ -121,10 +122,51 @@ h2 {
     border-radius: 4px;
 }
 
+/* 页脚样式 */
 footer {
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
     text-align: center;
-    padding: 2rem;
-    background-color: #f8f9fa;
+}
+
+/* 页脚联系方式样式 */
+.footer-content .contact-info {
+    margin-bottom: 15px;
+    color: #666;
+    font-size: 1em;
+    /* 移除卡片样式 */
+    max-width: none;
+    padding: 0;
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.footer-content .contact-info p {
+    /* 覆盖旧的样式 */
+    font-size: 1em;
+    margin-bottom: 15px;
+    color: #666;
+}
+
+.footer-content .contact-info a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.footer-content .contact-info a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    color: #999;
+    font-size: 0.85em;
 }
 
 @media (max-width: 768px) {

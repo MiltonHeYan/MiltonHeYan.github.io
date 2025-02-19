@@ -23,9 +23,9 @@ document.addEventListener('DOMContentLoaded', function() {
             'contact': '联系方式',
             'wechat': '微信',
             'email': '邮箱',
+            'work_email': '工作邮箱',
+            'company': '公司',
             'intro_line1': 'Hello World, 我是Milton严訸，核速径影的CEO',
-            'intro_line2': '开发了一些软件，发表过一些文章',
-            'intro_line3': '你也可以在这个网站上看看我工作生活的照片和视频。',
             // 项目页面
             'zhizhi_title': '知之 (ZhiZhi)',
             'zhizhi_desc': '打开一个课件或者一篇论文，每翻到新的一页，就会一脸问号，太多的陌生学术词汇，看着十分艰难，这时候如果有个陪读老师给你用一分钟时间讲解一下每一页，文件就会很容易理解了。知之 Zhizhi提供多个行业的人工智能专家，在新文件的每个页面右上角等待着您，为您生成AI播客解读当页内容！',
@@ -65,9 +65,9 @@ document.addEventListener('DOMContentLoaded', function() {
             'contact': 'Contact',
             'wechat': 'WeChat',
             'email': 'Email',
+            'work_email': 'Work Email',
+            'company': 'Company',
             'intro_line1': "Hello World, I'm Milton, the CEO@CoreSpeed",
-            'intro_line2': 'developed some software, published several articles',
-            'intro_line3': 'and you can also explore photos and videos of my life.',
             // 项目页面
             'zhizhi_title': 'ZhiZhi',
             'zhizhi_desc': 'When opening a lecture slide or academic paper, each new page can be overwhelming with unfamiliar academic terms, making comprehension challenging. Imagine having a tutor who could explain each page to you in just one minute - that would make the content much easier to understand! ZhiZhi offers AI experts from various fields, waiting in the top-right corner of each new page, ready to generate AI podcast explanations of the content for you!',
