@@ -40,7 +40,12 @@ document.addEventListener('DOMContentLoaded', function() {
             'smarton_desc': '专业的电源设计自动化软件平台，致力于提供智能化的电源设计解决方案。',
             'zhizhi_preview': 'AI陪读专家，让学习更轻松',
             'keting_preview': 'AI播客生成工具',
-            'glowi_preview': '智能灯光控制应用'
+            'glowi_preview': '智能灯光控制应用',
+            // CoreSpeed
+            'corespeed_title': 'CoreSpeed',
+            'corespeed_subtitle': 'AI-Native 软件交付工具链',
+            'corespeed_desc': 'CoreSpeed 是一个 AI-Native 软件交付工具链，专为 AI 编程助手（如 Cursor）优化设计。它能将 AI 生成的原型快速转化为完整的、可盈利的产品。通过提供统一的 SDK，解决认证、支付、导航等基础设施需求，让开发者专注于核心业务逻辑，将开发周期从 2 周缩短至 3 天。',
+            'corespeed_preview': 'AI-Native 软件交付工具链'
         },
         'en': {
             // 导航栏
@@ -77,7 +82,12 @@ document.addEventListener('DOMContentLoaded', function() {
             'smarton_desc': 'A professional power supply design automation software platform dedicated to providing intelligent power design solutions.',
             'zhizhi_preview': 'AI Study Companion, Making Learning Easier',
             'keting_preview': 'AI Podcast Generation Tool',
-            'glowi_preview': 'Smart Lighting Control App'
+            'glowi_preview': 'Smart Lighting Control App',
+            // CoreSpeed
+            'corespeed_title': 'CoreSpeed',
+            'corespeed_subtitle': 'AI-Native Software Delivery Toolchain',
+            'corespeed_desc': 'CoreSpeed is an AI-Native software delivery toolchain optimized for AI programming assistants like Cursor. It rapidly transforms AI-generated prototypes into complete, profitable products. By providing a unified SDK that handles infrastructure needs like authentication, payment, and navigation, it allows developers to focus on core business logic, reducing development cycles from 2 weeks to 3 days.',
+            'corespeed_preview': 'AI-Native Software Delivery Toolchain'
         }
     };
 
